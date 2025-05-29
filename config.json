@@ -1,0 +1,9 @@
+{
+    "services": [
+        {
+            "name": "www.example.com",
+            "address": "23.200.143.16:443",
+            "version": "1.2"
+        }
+    ]
+}
